@@ -5,6 +5,13 @@
 
 	require '../../../application/commands/getCommandDetail.php';
 
+$oImgPickup = "";
+$ImgDelivery = "";
+$dateConfirm = "";
+$datePickup = "";
+$dateDelivery = "";
+$SGSCORE = "";
+$SGIMAGESIGNATURE = "";
 //print_r($command);
 //exit();
 

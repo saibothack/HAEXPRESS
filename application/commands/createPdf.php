@@ -10,6 +10,9 @@
 $cuenta = 0;
 $cuentaOt = 0;
 $labTransfer = "";
+$code = "";
+$codeTr = "";
+$codeT = "";
 
 //$command = array();
 $sql = "SELECT `COMMANDS`.`IDCOMMAND` AS iComanda,
@@ -212,9 +215,13 @@ while ($row = mysqli_fetch_assoc($registros)) {
     //$command = $row;
     
     //$row["CMQUANTITY"]
-    for ($i = 1; $i <= 10; $i++) {
+
+    $CMQUANTITY = $row["CMQUANTITY"];
+    //$CMQUANTITY = 10;
+
+    for ($i = 1; $i <= $CMQUANTITY; $i++) {
 		$code = $code . '<td>
-				<div style="width: 530px;height:570px; float:left;">
+				<div style="width: 520px;height:570px; float:left;">
 					<div style="width: 400px !important;  border: 2px solid; ">
 						<img src="../../img/logoHeader.png" alt="Logo" style="width: 50px !important;">
 						<div style="height: 10px;">
@@ -265,14 +272,14 @@ while ($row = mysqli_fetch_assoc($registros)) {
 
 			$code =	$code .	$codeTr;
 
-			$code =	$code . '<div style="font-size: 20px;margin-top:200px;margin-left:420px;">' . $i . '/' . $row["CMQUANTITY"] .'</div>
+			$code =	$code . '<div style="font-size: 20px;margin-top:200px;margin-left:420px;">' . $i . '/' . $CMQUANTITY .'</div>
 			</div>
 				</div>
 				</td>';
 
 		$cuenta = $cuenta + 1;
 		
-		if ($row["CMQUANTITY"]%2==0){
+		if ($CMQUANTITY%2==0){
 	    	if($cuenta==2){
 				$cuenta = 0;
 				$codeT = $codeT . '<div><table><tr>' . $code . '</tr></table></div>';
@@ -280,7 +287,7 @@ while ($row = mysqli_fetch_assoc($registros)) {
 			}
 		}else{
 			
-			if (intval($row["CMQUANTITY"]/2)<= $cuentaOt){
+			if (intval($CMQUANTITY/2)<= $cuentaOt){
 		    	if($cuenta==1){
 		    		$cuentaOt = $cuentaOt + 1;
 					$cuenta = 0;
@@ -302,8 +309,11 @@ while ($row = mysqli_fetch_assoc($registros)) {
     
 }
 
+
+
 mysqli_free_result($registros);
 include '../configuration/closedb.php';
+
 
 try
 {
