@@ -1,0 +1,204 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    font-family: univers-condensed;
+}
+.navButton {
+    font-family: univers-condensed;
+    background-color: rgb(42, 39, 96);
+    border-radius: 15px;
+    margin: 5.94px;
+    width: 135px;
+    height: 50px;
+    color: white;
+}
+.titulo {
+    font-size: 13px;
+    color: white;
+    border-bottom: 2px solid rgb(67, 66, 68);
+    background-color: rgb(104, 92, 255);
+    text-align: center;
+}
+.encabezado {
+    float: left;
+    border: 2px solid rgb(67, 66, 68);
+    border-left: 0px;
+    border-top: 0px;
+    background-color: rgb(104, 92, 255);
+    text-align: center;
+}
+.grid {
+    font-family: avenir
+}
+.containerLeft {
+    background-color: rgb(109, 110, 112);
+    width: 198px;
+    float: left;
+}
+.choferes {
+    height: 404px;
+    border: 2px solid rgb(67, 66, 68);
+    border-bottom: 0px;
+}
+.btnDefault {
+    font-family: univers-condensed;
+    background-color: rgb(42, 39, 96);
+    border-radius: 5px;
+    margin: 13.5px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    width: 70px;
+    height: 40px;
+    color: white;
+    float: left;
+    cursor: pointer;
+}
+.btnDefaultAjust {
+    font-family: univers-condensed;
+    background-color: rgb(42, 39, 96);
+    border-radius: 5px;
+    margin: 4px;
+    width: 66.75px;
+    height: 30px;
+    color: white;
+    float: left;
+}
+.circleRed {
+    width: 15px;
+    height: 15px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: red;
+    left: 62px;
+    top: 32px;
+    position: relative;
+}
+.circleGreen {
+    width: 15px;
+    height: 15px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: lime;
+    left: 62px;
+    top: 32px;
+    position: relative;
+}
+.mapa {
+    height: 304px;
+    border: 2px solid rgb(67, 66, 68);
+}
+.containerCenter {
+    float: left;
+    width: 700px;
+}
+.sComandas {
+    height: 404px;
+    border: 2px solid rgb(67, 66, 68);
+    border-bottom: 0px;
+    border-left: 0px;
+}
+.rowClaro {
+    background-color: rgb(208, 209, 211);
+}
+.rowObscuro {
+    background-color: rgb(146, 148, 150);
+}
+.sNuevasComandas {
+    height: 304px;
+    border: 2px solid rgb(67, 66, 68);
+    border-left: 0px;
+}
+.containerRight {
+    float: left;
+    width: 302px;
+    background-color: rgb(208, 209, 211);
+}
+.detalleOrden {
+    height: 500px;
+    border: 2px solid rgb(67, 66, 68);
+    border-bottom: 0px;
+    border-left: 0px;
+}
+.detOrdenForm {
+    font-family: univers-condensed;
+    font-size: 13px;
+}
+.detOrdenFormSec {
+    width: 149px;
+    height: 465px;
+    float: left;
+}
+.detOrdenFormSec div div label {
+    margin-left: 2px;
+}
+.detOrdenFormSec div div input {
+    width: 141px;
+    margin: 1px;
+}
+.detOrdenFormSec div div div label {
+    margin-left: 2px;
+}
+.detOrdenFormSec div div div input {
+    margin: 1px;
+}
+.detOrdenFormSec div div textarea {
+    width: 141px;
+    margin: 1px;
+}
+.asignaChofer {
+    height: 208px;
+    border: 2px solid rgb(67, 66, 68);
+    border-left: 0px;
+    font-family: univers-condensed;
+    font-size: 13px;
+}
+.asignaChofer div {
+    margin: 0.2px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 149.5px;
+    float: left;
+}
+.asignaChofer div textarea {
+    width: 140px;
+}
+#frmDialog {
+    border: 0px;
+    width: 600px;
+}
+.ui-dialog {
+    background: rgb(109, 110, 112);
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, rgb(67, 66, 68), rgb(109, 110, 112));
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgb(67, 66, 68), rgb(109, 110, 112));
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgb(67, 66, 68), rgb(109, 110, 112));
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgb(67, 66, 68), rgb(109, 110, 112));
+    /* Standard syntax */
+    border-radius: 15px;
+}
+.ui-dialog-titlebar {
+    text-align: center;
+    border: 2px solid rgb(67, 66, 68);
+    background-color: rgb(104, 92, 255) !important;
+    color: white;
+}
+.ui-dialog-content {
+    padding: 0px !important;
+}
+.ui-corner-all {
+    border-radius: 10px !important;
+}
+.selectRow {
+    background-color: aqua;
+}
+.selectRowD {
+    background-color: aqua;
+}

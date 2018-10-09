@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: "univers-condensed";
+    font-style: normal;
+    font-weight: normal;
+    src: local("?"), url("univers-condensed/univers-condensedbold.woff") format("woff"), url("univers-condensed/univers-condensedbold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "helvetica-neve";
+    font-style: normal;
+    font-weight: normal;
+    src: local("?"), url("helvetica-nev-regular/helvetica-neue-regular.woff") format("woff"), url("helvetica-nev-regular/helvetica-neue-regular.ttf") format("truetype");
+}

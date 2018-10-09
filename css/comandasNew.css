@@ -1,0 +1,260 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body {
+	height: 99%;
+	width: 99%;
+	font-family: univers-condensed !important;
+}
+
+header {
+	margin: 10px;
+	margin-top: 5px;
+}
+
+.divTransicion {
+	-webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.navButton {
+    font-family: univers-condensed;
+    background-color: rgb(42, 39, 96);
+    border-radius: 15px;
+    margin: 5.94px;
+    width: 99%;
+    height: 25px;
+    color: white;
+	font-size: 15px;
+}
+
+.btnDefault {
+    font-family: univers-condensed;
+    background-color: rgb(42, 39, 96);
+    border-radius: 5px;
+    margin: 13.5px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    width: 70px;
+    height: 40px;
+    color: white;
+    float: left;
+    cursor: pointer;
+}
+
+.encabezado {
+    float: left;
+    border: 2px solid rgb(67, 66, 68);
+    border-left: 0px;
+    border-top: 0px;
+    background-color: rgb(104, 92, 255);
+    text-align: center;
+}
+
+.titulo {
+	height: 22px;
+    font-size: 15px;
+    color: white;
+    border: 1px solid rgb(67, 66, 68);
+    background-color: rgb(104, 92, 255);
+    text-align: center;
+}
+
+.bodyPage {
+	height: calc(100% - 150px) !important;
+}
+
+.sectionUp {
+	height: 513px;
+	border: 1px solid rgb(67, 66, 68);
+	background-color: rgb(109, 110, 112);
+}
+
+.sectionBottom {
+	min-height: 328px;
+	border: 1px solid rgb(67, 66, 68);
+	background-color: rgb(109, 110, 112);
+}
+
+.form-group {
+	margin: 0px !important;
+	padding: 0px !important;
+	font-size: 12.5px;
+}
+
+.form-control {
+	height: 30px !important;
+	font-size: 10px !important;
+}
+
+.border {
+	border: 1px solid rgb(67, 66, 68);
+}
+
+.btnDefaultAjust {
+    font-family: univers-condensed;
+    background-color: rgb(42, 39, 96);
+    border-radius: 5px;
+    margin: 4px;
+    width: 23%;
+    height: 25px;
+    color: white;
+    float: left;
+}
+
+.btnDefaultAjust:disabled,
+.btnDefaultAjust[disabled]{
+  background-color: rgb(67, 66, 68);
+}
+
+.rowClaro, .rowObscuro{
+    height: 25.5px !important;
+	
+}
+
+.rowClaro {
+    background-color: rgb(208, 209, 211);
+
+}
+
+.rowObscuro {
+    background-color: rgb(146, 148, 150);
+}
+
+.selectRow {
+    background-color: aqua;
+}
+
+.selectRowD {
+    background-color: aqua;
+}
+
+#frmDialog {
+    border: 0px;
+    width: 600px;
+}
+
+.ui-dialog {
+    background: rgb(109, 110, 112);
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, rgb(67, 66, 68), rgb(109, 110, 112));
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgb(67, 66, 68), rgb(109, 110, 112));
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgb(67, 66, 68), rgb(109, 110, 112));
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgb(67, 66, 68), rgb(109, 110, 112));
+    /* Standard syntax */
+    border-radius: 15px;
+}
+
+.ui-dialog-titlebar {
+    text-align: center;
+    border: 2px solid rgb(67, 66, 68);
+    background-color: rgb(104, 92, 255) !important;
+    color: white;
+}
+
+.ui-dialog-content {
+    padding: 0px !important;
+}
+
+.ui-corner-all {
+    border-radius: 5px !important;
+}
+
+::-webkit-scrollbar {
+      width: 8px !important;
+}
+
+::-webkit-scrollbar-track {
+      background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 15px;
+	background-color: rgb(42, 39, 96);;
+} 
+
+::-webkit-scrollbar-button {
+      background-color: transparent;
+}
+
+::-webkit-scrollbar-corner {
+      background-color: black;
+}
+
+.container-fluid {
+	height: 100%;
+	width: 100% !important;
+	color: black !important;
+}
+
+.notificationNumber {
+	color: white;
+	background-color: red;
+	border-radius: 10px;
+	width: 20px !important;
+	height: 20px !important;
+	font-size: 13px;
+	text-align: center;
+	vertical-align: middle;
+	position: absolute;
+}
+
+.col-form-label {
+	font-size: 12.5px;
+	padding: 1px;
+	margin: 1px;
+}
+
+.btnDefaultAjust {
+	font-size: 12px;
+}
+
+.driverDisabled {
+	background-color: red;
+	border-radius: 10px;
+	width: 20px !important;
+	height: 20px !important;
+	text-align: center;
+	vertical-align: middle;
+	position: absolute;
+}
+
+.driverEnabled {
+	background-color: green;
+	border-radius: 10px;
+	width: 20px !important;
+	height: 20px !important;
+	text-align: center;
+	vertical-align: middle;
+	position: absolute;
+}
+
+.btnAsignar:disabled,
+.btnAsignar[disabled]{
+  background-color: rgb(67, 66, 68);
+}
+
+.btnAsignar {
+	vertical-align: middle !important;
+	color: white !important; 
+	font-family: univers-condensed; 
+	background-color: rgb(42, 39, 96);
+	border-radius: 5px;
+	height:  30px !important;
+}
+
+
+label {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}

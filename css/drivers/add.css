@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: rgb(208, 209, 211) !important;
+	font-family: univers-condensed;
+}
+
+.container {
+	background-color: rgb(208, 209, 211) !important;
+}
+
+.form-control {
+	border: 2px solid rgb(67,66,68);
+}
+
+button {
+	font-family: univers-condensed;
+	font-size: 13px;
+	background-color: rgb(104,92,255);
+	border: 2px solid rgb(104,92,255) !important;
+	color: white;
+	width: 250px !important;
+	height: 35px !important;
+	margin: 14px; 
+}

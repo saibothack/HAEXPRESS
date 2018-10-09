@@ -1,0 +1,525 @@
+[12-Feb-2018 19:15:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[12-Feb-2018 19:15:52 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[12-Feb-2018 19:16:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[12-Feb-2018 19:16:11 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[13-Feb-2018 06:23:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[13-Feb-2018 06:23:27 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[13-Feb-2018 06:31:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[13-Feb-2018 06:31:05 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[13-Feb-2018 06:31:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[13-Feb-2018 06:31:13 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[13-Feb-2018 06:31:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[13-Feb-2018 06:31:37 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[13-Feb-2018 06:37:15 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[13-Feb-2018 06:37:15 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[13-Feb-2018 06:37:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[13-Feb-2018 06:37:58 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[13-Feb-2018 07:37:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[13-Feb-2018 07:37:45 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[15-Feb-2018 06:35:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[15-Feb-2018 06:35:58 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[15-Feb-2018 06:43:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[15-Feb-2018 06:43:20 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[15-Feb-2018 12:56:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[15-Feb-2018 12:56:24 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[15-Feb-2018 14:15:31 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[15-Feb-2018 14:15:31 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[16-Feb-2018 06:27:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[16-Feb-2018 06:27:13 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[18-Feb-2018 10:09:14 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[18-Feb-2018 10:09:14 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[18-Feb-2018 10:09:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[18-Feb-2018 10:09:27 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 05:53:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 05:53:36 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 06:12:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 06:12:45 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 07:07:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 07:07:55 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 07:08:31 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 07:08:31 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 08:00:26 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 08:00:26 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 08:33:33 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 08:33:33 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 08:33:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 08:33:47 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 08:37:33 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 08:37:33 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 12:47:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 12:47:23 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 12:47:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 12:47:27 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 13:08:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 13:08:23 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 13:08:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 13:08:28 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[19-Feb-2018 17:16:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[19-Feb-2018 17:16:04 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 06:13:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 06:13:48 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 06:15:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 06:15:56 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 06:17:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 06:17:16 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 09:38:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 09:38:38 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:06:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:06:05 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:32:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:32:29 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:33:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:33:38 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:34:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:34:04 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:34:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:34:32 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:35:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:35:29 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:36:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:36:01 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:40:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:40:10 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:48:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:48:01 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 14:50:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 14:50:53 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 15:00:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 15:00:00 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 16:11:02 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 16:11:02 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[20-Feb-2018 20:50:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[20-Feb-2018 20:50:10 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[21-Feb-2018 14:27:03 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[21-Feb-2018 14:27:03 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[21-Feb-2018 14:51:02 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[21-Feb-2018 14:51:02 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[22-Feb-2018 06:11:06 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[22-Feb-2018 06:11:06 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[22-Feb-2018 06:11:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[22-Feb-2018 06:11:24 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[22-Feb-2018 10:39:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[22-Feb-2018 10:39:09 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[22-Feb-2018 11:25:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[22-Feb-2018 11:25:55 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[22-Feb-2018 12:00:30 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[22-Feb-2018 12:00:30 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[22-Feb-2018 19:18:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[22-Feb-2018 19:18:57 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[22-Feb-2018 19:19:14 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[22-Feb-2018 19:19:14 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[23-Feb-2018 03:37:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[23-Feb-2018 03:37:49 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[23-Feb-2018 03:38:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[23-Feb-2018 03:38:10 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[23-Feb-2018 03:42:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 55
+[23-Feb-2018 03:42:07 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 59
+[23-Feb-2018 03:43:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 57
+[23-Feb-2018 03:43:07 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 61
+[23-Feb-2018 03:48:33 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 57
+[23-Feb-2018 03:48:33 America/Chicago] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 61
+[29-Mar-2018 23:24:41 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getDataCustomerAdd.php on line 26
+[29-Mar-2018 23:24:41 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getDataCustomerAdd.php on line 30
+[29-Mar-2018 23:31:16 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getDataCustomerAdd.php on line 26
+[29-Mar-2018 23:31:16 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getDataCustomerAdd.php on line 30
+[12-Apr-2018 02:34:23 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getDataCustomerAdd.php on line 27
+[12-Apr-2018 02:34:23 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getDataCustomerAdd.php on line 31
+[12-Apr-2018 02:39:23 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getDataCustomerAdd.php on line 27
+[12-Apr-2018 02:39:23 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getDataCustomerAdd.php on line 31
+[27-Apr-2018 17:50:47 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandsNotificationDetail.php on line 46
+[10-May-2018 16:38:13 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 16:38:13 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 16:39:06 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 16:39:06 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:01:31 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:01:31 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:01:33 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:01:33 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:04:17 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:04:17 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:04:18 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:04:18 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:04:19 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:04:19 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:04:21 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:04:21 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:04:21 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:04:21 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:04:21 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:04:21 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:04:21 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:04:21 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 18:04:22 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 18:04:22 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[10-May-2018 19:16:44 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[10-May-2018 19:16:44 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[11-May-2018 00:27:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 6
+[11-May-2018 00:27:38 America/Mexico_City] PHP Parse error:  syntax error, unexpected '.' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 117
+[11-May-2018 00:31:13 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 116
+[11-May-2018 00:36:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 134
+[11-May-2018 00:39:53 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 13
+[11-May-2018 00:40:19 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 160
+[11-May-2018 00:50:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 19
+[11-May-2018 00:51:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 19
+[11-May-2018 00:51:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 19
+[11-May-2018 00:52:12 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 29
+[11-May-2018 00:52:32 America/Mexico_City] PHP Warning:  require(../../plugs/vendor/autoload.php): failed to open stream: No such file or directory in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 1
+[11-May-2018 00:52:32 America/Mexico_City] PHP Warning:  require(../../plugs/vendor/autoload.php): failed to open stream: No such file or directory in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 1
+[11-May-2018 00:52:32 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '../../plugs/vendor/autoload.php' (include_path='.:/opt/php71/lib/php') in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 1
+[11-May-2018 00:53:32 America/Mexico_City] PHP Warning:  require(getCommandDetailPDF.php): failed to open stream: No such file or directory in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 4
+[11-May-2018 00:53:32 America/Mexico_City] PHP Warning:  require(getCommandDetailPDF.php): failed to open stream: No such file or directory in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 4
+[11-May-2018 00:53:32 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'getCommandDetailPDF.php' (include_path='.:/opt/php71/lib/php') in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 4
+[11-May-2018 00:54:23 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[11-May-2018 00:54:23 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[11-May-2018 00:54:23 America/Mexico_City] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Could not include font definition file: arial in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php:2927
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4275): TCPDF->Error('Could not inclu...')
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4436): TCPDF->AddFont('arial', '', '', true)
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Css.php(371): TCPDF->SetFont('Arial', '', 18.75)
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Tag/AbstractDefaultTag.php(34): Spipu\Html2Pdf\Parsing\Css->fontSet()
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1399): Spipu\Html2Pdf\Tag\AbstractDefaultTag->open(Array)
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#6 /home/syswareo in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php on line 2927
+[11-May-2018 00:58:02 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 107
+[11-May-2018 00:58:02 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 111
+[11-May-2018 00:58:02 America/Mexico_City] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Could not include font definition file: arial in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php:2927
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4275): TCPDF->Error('Could not inclu...')
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4436): TCPDF->AddFont('arial', '', '', true)
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Css.php(371): TCPDF->SetFont('Arial', '', 18.75)
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Tag/AbstractDefaultTag.php(34): Spipu\Html2Pdf\Parsing\Css->fontSet()
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1399): Spipu\Html2Pdf\Tag\AbstractDefaultTag->open(Array)
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#6 /home/syswareo in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php on line 2927
+[11-May-2018 01:00:11 America/Mexico_City] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Could not include font definition file: arial in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php:2927
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4275): TCPDF->Error('Could not inclu...')
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4436): TCPDF->AddFont('arial', '', '', true)
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Css.php(371): TCPDF->SetFont('Arial', '', 18.75)
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Tag/AbstractDefaultTag.php(34): Spipu\Html2Pdf\Parsing\Css->fontSet()
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1399): Spipu\Html2Pdf\Tag\AbstractDefaultTag->open(Array)
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#6 /home/syswareo in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php on line 2927
+[11-May-2018 01:00:46 America/Mexico_City] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Could not include font definition file: arial in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php:2927
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4275): TCPDF->Error('Could not inclu...')
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4436): TCPDF->AddFont('arial', '', '', true)
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Css.php(371): TCPDF->SetFont('Arial', '', 18.75)
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Tag/AbstractDefaultTag.php(34): Spipu\Html2Pdf\Parsing\Css->fontSet()
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1399): Spipu\Html2Pdf\Tag\AbstractDefaultTag->open(Array)
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#6 /home/syswareo in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php on line 2927
+[11-May-2018 01:00:49 America/Mexico_City] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Could not include font definition file: arial in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php:2927
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4275): TCPDF->Error('Could not inclu...')
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(4436): TCPDF->AddFont('arial', '', '', true)
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Css.php(371): TCPDF->SetFont('Arial', '', 18.75)
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Tag/AbstractDefaultTag.php(34): Spipu\Html2Pdf\Parsing\Css->fontSet()
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1399): Spipu\Html2Pdf\Tag\AbstractDefaultTag->open(Array)
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#6 /home/syswareo in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php on line 2927
+[11-May-2018 01:17:32 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [br] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:1404
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#5 /home/syswareo in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1404
+[11-May-2018 01:20:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 01:23:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 01:23:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 01:23:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 01:33:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 01:55:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 01:59:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 01:59:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 11:36:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 11:37:08 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[11-May-2018 11:37:08 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[11-May-2018 11:37:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function getParam() on null in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php:6045
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_TEXTAREA(Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#2 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#3 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1402): Spipu\Html2Pdf\Html2Pdf->_tag_open_DIV(Array)
+#4 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(1370): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#5 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(3251): Spipu\Html2Pdf\H in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php on line 6045
+[11-May-2018 11:59:31 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(235): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\n\t\n\t<table>\n\t\t...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 11:59:34 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(235): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\n\t\n\t<table>\n\t\t...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:00:55 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(235): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\n\t\n\t<table bor...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:00:57 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(235): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\n\t\n\t<table bor...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:02:35 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(151): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div>\n\t<table...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:02:39 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(151): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div>\n\t<table...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:06:51 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(151): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div>\n\t<table...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:06:53 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(151): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div>\n\t<table...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:06:54 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(151): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div>\n\t<table...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:07:32 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(146): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div>\n\t<table...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:07:35 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(146): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div>\n\t<table...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:13:45 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(79): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div>\n\t<table...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:46:24 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(150): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div>\n\t<table b...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:47:31 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(149): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div><table bor...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:47:34 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(149): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div><table bor...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:50:49 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(149): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div><table bor...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:50:50 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(149): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div><table bor...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:50:51 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(149): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div><table bor...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:52:10 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(77): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div>\n\t\t\t<table...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:54:41 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(79): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div style="wid...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:55:21 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(79): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div style="wid...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:55:23 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(79): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div style="wid...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 12:55:24 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tr] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(79): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div style="wid...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 13:23:09 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [table] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(149): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div style="wid...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 13:24:42 America/Mexico_City] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [table] in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php:233
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(563): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(149): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div style="wid...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Parsing/Html.php on line 233
+[11-May-2018 16:53:39 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[11-May-2018 16:53:39 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[11-May-2018 16:53:41 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php:103) in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php on line 7630
+[11-May-2018 16:53:41 America/Mexico_City] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Some data has already been output to browser, can't send PDF file in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php:2927
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(7632): TCPDF->Error('Some data has a...')
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(549): TCPDF->Output('Impresiondetall...', 'I')
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(152): Spipu\Html2Pdf\Html2Pdf->output('Impresiondetall...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php on line 2927
+[11-May-2018 16:59:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/syswareo/public_html/haexpress/es/application/commands/details.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/syswareo/public_html/haexpress/es/application/commands/details.php on line 138
+[11-May-2018 17:01:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/syswareo/public_html/haexpress/es/application/commands/details.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/syswareo/public_html/haexpress/es/application/commands/details.php on line 138
+[11-May-2018 17:02:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/syswareo/public_html/haexpress/es/application/commands/details.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/syswareo/public_html/haexpress/es/application/commands/details.php on line 138
+[14-May-2018 18:04:35 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 6
+[14-May-2018 18:04:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 6
+[14-May-2018 18:05:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 9
+[14-May-2018 18:05:19 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 9
+[14-May-2018 18:05:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 9
+[14-May-2018 18:05:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 9
+[14-May-2018 18:05:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 9
+[14-May-2018 18:05:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected ':' in /home/syswareo/public_html/haexpress/es/application/commands/details_print.php on line 9
+[17-May-2018 16:14:26 America/Mexico_City] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 103
+[17-May-2018 16:14:26 America/Mexico_City] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php on line 107
+[17-May-2018 16:14:28 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/syswareo/public_html/haexpress/application/commands/getCommandDetail.php:103) in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php on line 7630
+[17-May-2018 16:14:28 America/Mexico_City] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Some data has already been output to browser, can't send PDF file in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php:2927
+Stack trace:
+#0 /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php(7632): TCPDF->Error('Some data has a...')
+#1 /home/syswareo/public_html/haexpress/plugs/vendor/spipu/html2pdf/src/Html2Pdf.php(549): TCPDF->Output('Impresiondetall...', 'I')
+#2 /home/syswareo/public_html/haexpress/es/application/commands/details_print.php(152): Spipu\Html2Pdf\Html2Pdf->output('Impresiondetall...')
+#3 {main}
+  thrown in /home/syswareo/public_html/haexpress/plugs/vendor/tecnickcom/tcpdf/tcpdf.php on line 2927

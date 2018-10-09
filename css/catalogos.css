@@ -1,0 +1,70 @@
+body, html{
+	margin: 0px;
+	padding: 0px;
+	font-family: univers-condensed;
+}
+
+.titulo div{
+	font-size: 15px;
+	/*float: left;	width: 299px;*/
+	/*text-align: center;*/
+	background-color: rgb(104,92,255) !important;
+	color: white;
+	/*border-bottom: 2px solid rgb(67,66,68);*/
+}
+
+.rowClaro{
+	background-color: rgb(208, 209, 211);
+	height: 30px;
+}
+
+.rowObscuro{
+	background-color: rgb(146, 148, 150);
+	height: 30px;
+}
+
+.btnDef {
+	font-family: univers-condensed;
+	font-size: 13px;
+	background-color: rgb(104,92,255);
+	border: 2px solid rgb(104,92,255);
+	color: white;
+	width: 60%;
+	font-weight: normal;
+}
+
+.dDescripcion {
+	cursor:pointer;
+	text-align: center;
+}
+
+.dDescripcion :hover{
+	border: 2px solid rgb(104,92,255);
+}
+
+a {
+	display: block;
+	cursor:pointer;
+    color: black;
+    text-decoration: none;
+}
+
+a :hover{
+	border: 0px;
+}
+
+.onRow :hover {
+	background-color: aqua;
+	cursor: pointer;
+    
+}
+
+label {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}

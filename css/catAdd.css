@@ -1,0 +1,11 @@
+body {
+	background-color: rgb(208, 209, 211) !important;
+	font-family: univers-condensed;
+}
+
+button {
+	background-color: rgb(104,92,255);
+	border: 2px solid rgb(104,92,255) !important;
+	color: white;
+	width: 60%;
+}
